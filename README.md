@@ -1,5 +1,7 @@
 # NotePadExtension
-Just a simple notepad extension source code - will store data to local storage so shouldn't clear when you click out.
+Super simple notepad extension source code - will store data to local storage so shouldn't clear when you click out.
+
+![image](https://github.com/itsharryshelton/NotePadExtension/assets/136495601/ae6ee711-288b-4cc3-a5fb-7c35029ec231)
 
 Use popup.html for extension loading
 Store in one folder together
